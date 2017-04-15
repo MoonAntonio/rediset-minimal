@@ -1,7 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/rediset-minimal.svg)](https://github.com/MoonAntonio/rediset-minimal/issues)
 [![Sublime](https://img.shields.io/badge/Sublime%20Text-2-lightgrey.svg)](https://www.sublimetext.com/)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/rediset-minimal)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/rediset-minimal/master/LICENSE)
 
 # Rediset Minimal
